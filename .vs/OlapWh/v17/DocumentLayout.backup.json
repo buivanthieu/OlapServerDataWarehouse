@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Store.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|solutionrelative:Dim Store.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Customer 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|solutionrelative:Dim Customer 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|solutionrelative:Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\DW Office Retail.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|solutionrelative:DW Office Retail.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\DW Office Retail.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B89E844E-FF1D-72C5-3A83-77D6BD1E28A1}|OlapWh.dwproj|solutionrelative:DW Office Retail.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Store.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Store.dim",
+              "RelativeDocumentMoniker": "Dim Store.dim",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Store.dim [Design]",
+              "RelativeToolTip": "Dim Store.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-20T02:17:22.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Dim Product.dim",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-20T02:17:10.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Customer 1.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Customer 1.dim",
+              "RelativeDocumentMoniker": "Dim Customer 1.dim",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Customer 1.dim [Design]",
+              "RelativeToolTip": "Dim Customer 1.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-20T02:16:32.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DW Office Retail.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\DW Office Retail.cube",
+              "RelativeDocumentMoniker": "DW Office Retail.cube",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\DW Office Retail.cube [Design]",
+              "RelativeToolTip": "DW Office Retail.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-20T02:16:22.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-19T07:48:04.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-19T07:47:37.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DW Office Retail.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\DW Office Retail.dsv",
+              "RelativeDocumentMoniker": "DW Office Retail.dsv",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Kho d\u1EEF li\u1EC7u\\OlapWh\\DW Office Retail.dsv [Design]",
+              "RelativeToolTip": "DW Office Retail.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T15:26:05.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
